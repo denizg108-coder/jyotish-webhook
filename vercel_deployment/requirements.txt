@@ -1,2 +1,0 @@
-# Vercel Serverless Functions - Minimal Dependencies
-# No Flask needed - using pure Python with Vercel runtime
